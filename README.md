@@ -1,8 +1,4 @@
-# Hello-World
-First Repository
-## Heading 1
-### Heading 2
-**Let's try bold**
+This is a sample of a good README.md file that can be used when describing a project.
 
 ## Table of contents
 
@@ -15,8 +11,25 @@ First Repository
 
 ## Project Title
 
-*Hello World Sample*
+*ChapStick Transforms From Habitual Purchase to Beauty Essential*
 
-##Description
+## Description
 
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
+Practicing using GitHub by creating a sample repository. 
+
+## How to Run Program
+
+Not applicable at this time. 
+
+## Files Used
+
+* ChapStick Transforms From Habitual Purchase to Beauty Essential
+  * Article is from class
+    * ChapStick® rebranded from a basic lip balm to a beauty essential through celebrity endorsements, media events, and industry awards, boosting sales and brand recognition.
+   
+## Additional Documentation
+
+**There is not any additional documentation at this time.**
+
+## Versioning
+<ins>This group project had four people making regular updates often.</ins>
