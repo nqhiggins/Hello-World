@@ -1,4 +1,4 @@
-This is a sample of a good README.md file that can be used when describing a project.
+This is a sample of a README.md file that can be used when describing a project.
 
 # Project Title
 
