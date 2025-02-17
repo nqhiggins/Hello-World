@@ -1,6 +1,10 @@
 This is a sample of a good README.md file that can be used when describing a project.
 
-## Table of contents
+## Project Title
+
+*ChapStick Transforms From Habitual Purchase to Beauty Essential*
+
+# Table of contents
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
@@ -8,10 +12,6 @@ This is a sample of a good README.md file that can be used when describing a pro
 - [FILES USED](#files-used)
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
-
-## Project Title
-
-*ChapStick Transforms From Habitual Purchase to Beauty Essential*
 
 ## Description
 
